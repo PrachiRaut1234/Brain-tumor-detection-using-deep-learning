@@ -3,10 +3,10 @@ A CNN-based brain tumor detection project using MRI images.
 
 This project is a Convolutional Neural Network (CNN)-based system for detecting brain tumors from MRI images. It uses a pre-trained deep learning model to classify images into four categories:
 
-Glioma Tumor
-Meningioma Tumor
-Pituitary Tumor
-No Tumor
+1.Glioma Tumor
+2.Meningioma Tumor
+3.Pituitary Tumor
+4.No Tumor
 The goal of this project is to provide a simple and easy-to-use tool for researchers, students, and developers to test brain MRI images for tumor detection using deep learning.
 
 This repository includes:
